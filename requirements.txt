@@ -1,0 +1,18 @@
+# Multi-Agent Cognitive Architecture Dependencies
+
+# Core LangChain and LangGraph
+langchain>=0.1.20,<0.3
+langgraph
+langchain-community
+
+# LLM Backends
+langchain-groq
+
+# Data handling and validation
+pydantic
+python-dotenv
+
+# Optional: For enhanced functionality
+# requests  # If you plan to add web search capabilities
+# beautifulsoup4  # If you plan to add web scraping
+# pandas  # If you plan to add data analysis capabilities 
