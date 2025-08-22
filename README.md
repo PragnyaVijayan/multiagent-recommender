@@ -1,6 +1,6 @@
 # Multi-Agent Cognitive Architecture
 
-A sophisticated multi-agent system built with LangChain and LangGraph that implements a cognitive architecture with specialized agents for perception, research, analysis, and decision-making.
+A sophisticated multi-agent system built with LangChain and LangGraph that implements a cognitive architecture with specialized agents for perception, research, analysis, and decision-making. This can be templatized and used in other agentic ai projects.
 
 ## 🏗️ Architecture Overview
 
